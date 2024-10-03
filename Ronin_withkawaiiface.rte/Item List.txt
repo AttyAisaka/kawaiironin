@@ -1,6 +1,5 @@
 ///////
 //Actors
 
-Kawaii Ronin Soldier
-Kawaii Ronin Heavy
-Kawaii Ronin Sniper
+Kawaii Ronin Bandit
+Kawaii Ronin Raider
